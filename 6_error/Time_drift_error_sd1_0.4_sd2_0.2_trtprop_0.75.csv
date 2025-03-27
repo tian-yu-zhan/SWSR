@@ -1,0 +1,7 @@
+"","table.name.out","cust.1","cust_bias","cust_cp","val_MSE"
+"1","function (time, seed) {    0.3 - 0.3/(n - 1) * (time - 1)}","0.026296","1.33142393188025e-05","0.947263","0.0338251389467148"
+"2","function (time, seed) {    0.5 * (time - 1)/(n - 1)}","0.026239","-1.97534307404404e-05","0.947291","0.0338254456224823"
+"3","function (time, seed) {    0.3 * (time^2 - 1)/(n^2 - 1)}","0.026395","2.67530509812751e-05","0.947515","0.0338223563512576"
+"4","function (time, seed) {    0.3 * (time^3 - 1)/(n^3 - 1)}","0.026426","-3.33680823255141e-05","0.947037","0.0338283226431354"
+"5","function (time, seed) {    set.seed(seed)    time.temp.1 = rnorm(n = n - 1, 0, sd = sqrt(0.003))    time.temp = (c(0, cumsum(time.temp.1)))    time.temp[time]}","0.026668","1.50938522756039e-05","0.946737","0.0368682645098859"
+"6","function (time, seed) {    set.seed(seed)    time.temp.1 = rnorm(n = n - 1, 0, sd = sqrt(0.005))    time.temp = (c(0, cumsum(time.temp.1)))    time.temp[time]}","0.026544","4.69196457042961e-05","0.947284","0.0386926392562894"
