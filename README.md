@@ -1,4 +1,4 @@
-This is a help file for the R code accompanying the paper Semiparametric Weighted Spline Regression (SWSR) in Confirmatory Clinical Trials with Time-Varying Placebo Effects. Journal of Computational and Graphical Statistics.
+This is a help file for the R code accompanying the paper "Semiparametric Weighted Spline Regression (SWSR) in Confirmatory Clinical Trials with Time-Varying Placebo Effects. Journal of Computational and Graphical Statistics".
 
 https://www.tandfonline.com/doi/abs/10.1080/10618600.2025.2507428
 
