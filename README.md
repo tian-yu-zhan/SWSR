@@ -1,4 +1,6 @@
-This is a help file for the R code accompanying a paper with the title “Semiparametric Weighted Spline Regression (SWSR) in Confirmatory Clinical Trials with Time-Varying Placebo Effects”.
+This is a help file for the R code accompanying a paper Zhan, T., & Gu, Y. (2026). Semiparametric Weighted Spline Regression (SWSR) in Confirmatory Clinical Trials with Time-Varying Placebo Effects. Journal of Computational and Graphical Statistics, 35(1), 111-118.
+
+https://www.tandfonline.com/doi/abs/10.1080/10618600.2025.2507428
 
 The simulation is conducted on cluster with 120 cores under 10^5 or 10^6 iterations. For testing on local laptop, one can use 10^3 iterations.
 
